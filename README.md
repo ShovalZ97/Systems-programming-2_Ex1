@@ -8,11 +8,11 @@ This following commands can be seen our compilation errors, runtime errors or me
 	
 <div dir='ltr'>
 	
-    make demo
+    make demo .
 	
-	make run
+	make run .
 	
-    make mem_test
+    make mem_test .
 	
 </div>
 	
