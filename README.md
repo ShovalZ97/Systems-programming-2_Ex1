@@ -7,9 +7,13 @@ An adaptive array is an array that changes its size so that any reference to a n
 This following commands can be seen our compilation errors, runtime errors or memory leaks if there:
 	
 <div dir='ltr'>
+	
     make demo
+	
 	make run
+	
     make mem_test
+	
 </div>
 	
  # OutPut
