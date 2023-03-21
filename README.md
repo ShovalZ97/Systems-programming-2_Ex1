@@ -4,10 +4,9 @@
 In this assignment we implemented a general adaptive array in the C language.
 An adaptive array is an array that changes its size so that any reference to a negative index is normal. When you refer to an index where no value has been placed then NULL is returned
 	
-The following commands can be run so that it can be seen that there are no compilation errors, runtime errors or memory leaks:
+This following commands can be seen our compilation errors, runtime errors or memory leaks if there:
 	
 <div dir='ltr'>
-
     make demo
 	make run
     make mem_test
